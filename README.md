@@ -75,38 +75,26 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 #### DEPLOY TO KOYEB
 
-1. if you don't have a koyeb account. Create an account.
-   <br>
-   <p align="center"><a href="https://app.koyeb.com/auth/signup"> <img src="https://img.shields.io/badge/Koyeb account-blue?style=for-the-badge&logo=koyeb" width="220" height="38.45"/></a></p>
- 
-
+1. AINT AVAILABLE FOR NOW
 
 
 #### DEPLOY TO PANEL
 1. Fork the repo
 2. Edit then Download your forked repo zip
 3. 🖥 Go to panel and upload your Sc.
-4. Delete the cred file from the session then start console
-5. Extract or move it to a directory (container).
-6. ⌨ Use the following code to move into a container: "../"
-7. Then go to the console and press Start.
-
+4. Extract or move it to a directory (container).
+5. ⌨ Use the following code to move into a container: "../"
+6. Then go to the console and press Start.
    
 - Note: I recommend using starter + or higher for a fast bot
 
 
 #### DEPLOY TO RENDER
-if you don't have a Render account. Create an account.
-   <br>
-   <p align="center"><a href="https://dashboard.render.com/"> <img src="https://img.shields.io/badge/Render account-grey?style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
-
-#### DEPLOY TO Koyeb
-
-Koyeb method aint available for now
+AINT AVAILABLE FOR NOW
 
 
 #### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [PATRON-V1](https://github.com/Itzpatron/PATRON-V1) ON ANY TERMINAL
-> Pair and upload cred to session folder first
+
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
@@ -139,6 +127,7 @@ npm start
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # Termux Deployment
+
 ```
 termux-setup-storage
 ```
@@ -149,34 +138,10 @@ apt update
 apt upgrade
 ```
 ```
-pkg update && pkg upgrade
+git clone (copy and paste your forked repo link not mine to save your changes) 
 ```
 ```
-pkg install bash
-```
-```
-pkg install libwebp
-```
-```
-pkg install git -y
-```
-```
-pkg install nodejs -y
-```
-```
-pkg install ffmpeg -y 
-```
-```
-pkg install wget
-```
-```
-pkg install yarn
-```
-```
-git clone (copy and paste your forked repo link not mine to save changes your changes) 
-```
-```
-cd Venom-2
+cd PATRON-V1
 ```
 ```
 yarn install
@@ -193,7 +158,7 @@ npm start
 <a href="https://github.com/Itzpatron"><img src="https://telegra.ph/file/551d68eb74a30dda96c0c.jpg" width="250" height="250" alt="PATRON 🚹"/></a>
 <a href="https://github.com/asmakev930h"><img src="https://telegra.ph/file/229312c344db0a90bca65.jpg" width="250" height="250" alt="BLUE DEMON"/></a>
 
-`𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 BY PATRON 🚹 & BLUE DEMON`
+`𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 BY 𝙿𝙰𝚃𝚁𝙾𝙽 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽`
 
 <h2 align="center">  Reminder
 </h2>
